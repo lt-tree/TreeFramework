@@ -2,9 +2,54 @@
 
 TreeFramework是学习Unity各模块插件练手记录
 
-TreeFramework是一个大框
+TreeFramework是一个大框架
 
 并非一个传统意义上的 ”Framework“ 
+
+
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+
+# 现状 - TreeGame
+
+## 现象
+
+使用UGUI配置，搭配三消资源，实现简易界面跳转，包含定时器应用。
+
+
+
+<br/>
+
+<br/>
+
+
+
+## 包含
+
+Framework
+
+- UIManager，UI
+- ScheduleManager，定时器
+- ResourceManager，资源
+- DebugManager，调试
+
+
+
+Utils
+
+- Singleton，单例
+
+
+
+Editor
+
+- Prefab导C#业务脚本
 
 
 
@@ -31,4 +76,14 @@ TreeFramework是一个大框
 | 【资源】Addressable    | ❌        |      |
 | 【资源】AssetsDatabase | ❌        |      |
 | 【框架】编辑器扩展     | ❌        |      |
+| 【UI】UGUI             | ❌        |      |
+| 【UI】FGUI             | ❌        |      |
+| 【UI】NGUI             | ❌        |      |
+|                        |          |      |
+|                        |          |      |
+|                        |          |      |
+|                        |          |      |
+|                        |          |      |
+|                        |          |      |
+|                        |          |      |
 
